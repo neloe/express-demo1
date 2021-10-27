@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/neloe/express-demo1/issues"
   },
-  "homepage": "https://github.com/neloe/express-demo1#readme"
+  "homepage": "https://github.com/neloe/express-demo1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
 }
